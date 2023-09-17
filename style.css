@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+
+.nav-bar,
+.splash,
+footer {
+    background: #1f2937;
+}
+
+h1,
+footer {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+div.splash a,
+div.action a,
+.call {
+    background: #3882f6;
+}
+
+div.splash h2 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+div.splash p,
+ul {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.content h2{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+.quote {
+    background: #e5e7eb;
+}
+
+.quote p {
+    font-size: 36px;
+    font-weight: light italic;
+    color: #1f2937;
+}
