@@ -1,5 +1,5 @@
 * {
-    font-family: sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 .nav-bar,
@@ -42,7 +42,7 @@ ul {
     background: #e5e7eb;
 }
 
-.quote p {
+quote {
     font-size: 36px;
     font-weight: light italic;
     color: #1f2937;
