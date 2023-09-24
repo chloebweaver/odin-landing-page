@@ -8,6 +8,9 @@
 .splash,
 footer {
     background: #1f2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
 }
 
 h1,
