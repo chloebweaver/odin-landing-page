@@ -19,10 +19,15 @@ footer {
     color: #f9faf8;
 }
 
-div.splash a,
-div.action a,
 .call {
     background: #3882f6;
+}
+
+button {
+    background: #3882f6;
+    border: 2px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 div.splash h2 {
