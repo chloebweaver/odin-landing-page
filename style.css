@@ -14,7 +14,7 @@ footer {
 }
 
 .nav-bar {
-    display: flex;
+    justify-content: space-between;
 }
 
 h1,
@@ -42,10 +42,13 @@ div.splash h2 {
 }
 
 div.splash p,
-ul {
+li a {
     font-size: 18px;
     color: #e5e7eb;
-    display: flex;
+}
+
+ul {
+    justify-content: space-around;
 }
 
 .content h2{
