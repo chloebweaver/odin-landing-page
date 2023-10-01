@@ -13,6 +13,10 @@ footer {
     padding-bottom: 50px;
 }
 
+.nav-bar {
+    display: flex;
+}
+
 h1,
 footer {
     font-size: 24px;
@@ -21,6 +25,7 @@ footer {
 
 .call {
     background: #3882f6;
+    color: #f9faf8;
 }
 
 button {
@@ -40,6 +45,7 @@ div.splash p,
 ul {
     font-size: 18px;
     color: #e5e7eb;
+    display: flex;
 }
 
 .content h2{
